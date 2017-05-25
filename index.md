@@ -1,10 +1,10 @@
-# CPSC 481 - Tutorial [X] - Group [Y]
+# CPSC 481 - Tutorial 2 - Group 4
 
-## Project Title
+## Farmer's Market App
 
-* Title
-* Team Members (names, IDs)
-* Tutorial Number and TA
+* Kevin Naval       10082739
+* Bradley Bouchard  10097326
+* Tutorial 2 Kody Dillman
 
 ## Project Idea
 
